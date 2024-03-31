@@ -28,7 +28,7 @@ export function Tombol2({isiPesan, namaTombol}:any) {
     );
   }
   
-  /*export function Tombol3({isiPesan, namaTombol}:any){
+  export function Tombol3({isiPesan, namaTombol}:any){
       return (
           <button
               className="bg-green-400 hover:bg-blue-700 text-white p-2 rounded"
@@ -36,4 +36,4 @@ export function Tombol2({isiPesan, namaTombol}:any) {
               {namaTombol}
           </button>
       );
-  }*/
+  }
