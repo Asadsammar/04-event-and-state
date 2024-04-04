@@ -7,11 +7,15 @@
 | Kelas | TI - 3I |
 
 
-### Question 1
-Change the contents of the code Home()so that it can appear as follows by utilizing the components Profile()that were created in step 1!
-
 ![Screenshot](assets/01.png)
 
 ![Screenshot](assets/02.png)
-## Question 2
-Capture the results and create a report in README.md . Explain what you have learned and how does it look now?
+
+![Screenshot](assets/03.png)
+
+![Screenshot](assets/04png)
+## Question 1,2
+What is the difference between the Form_2first function and the second?
+Why do you need to delete state fullName? What are the advantages?
+## ANswer
+Form is a game-related form, while Form2 deals with capturing and displaying user names. Deleting the fullName state in Form2 streamlines the component and improves efficiency.
