@@ -13,7 +13,7 @@
 
 ![Screenshot](assets/03.png)
 
-![Screenshot](assets/04png)
+![Screenshot](assets/04.png)
 ## Question 1,2
 What is the difference between the Form_2first function and the second?
 Why do you need to delete state fullName? What are the advantages?
